@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hey this is a dragon*
+_Its from the other side_
+
+**This dragon is ver **
+__dangerous__
+
+_You **should** be alert!_
+ 
